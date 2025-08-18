@@ -1,3 +1,5 @@
+next_permutation(arr, arr+N)
+
 int +- 2,000,000,000
 
 long += 9,000,000,000,000,000,000
